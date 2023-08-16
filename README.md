@@ -13,7 +13,9 @@ The decoder consists of a series of convolutional layers that are arranged in an
 In addition to the convolutional layers, the U-Net architecture also includes skip connections between the encoder and decoder. These skip connections allow the decoder to access the high-level features that were learned by the encoder. This helps the decoder to generate more accurate segmentation masks.
 
 Architecture:
-![u-net-architecture](https://github.com/Venkatesan03/Semantic_segmentation_U-NET__GAN/assets/116782185/d8587904-8e62-46c2-98d5-5b90f0675383)
+![u-net-architecture](https://github.com/Venkatesan03/Semantic_segmentation_U-NET__GAN/assets/116782185/372f73cd-210f-47a9-8894-700451ddfe51)
+
+
 
 
 Advantages of U-Net
